@@ -1,7 +1,7 @@
 # expensiveshit
 Photo web uploader/iOS homescreen app with Seafile handover
 
-![Screenshot](/HOME/httpdocs/bilder/core/screen.png?raw=true "Screen")
+![Screenshot](/HOME/httpdocs/bilder/core/screen_small.png?raw=true "Screen")
 
 This thing is a small website that serves as a web-app in your iOS device.
 It will 
