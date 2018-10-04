@@ -1,1 +1,8 @@
 .DS_Store
+.htpasswd
+conf
+!conf.sample
+fonts
+!fonts.sample
+uploads
+!uploads/.gitkeep

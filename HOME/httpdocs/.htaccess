@@ -1,0 +1,11 @@
+
+Header set Cache-Control "max-age=0, public"
+
+RewriteEngine On
+
+RewriteCond %{SERVER_PORT} ^80$
+RewriteCond %{HTTP:X-Forwarded-Proto} !https
+RewriteCond %{HTTP_HOST} ^(.*) [NC]
+RewriteCond %{REQUEST_URI} !^/.well-known/acme-challenge  [NC]
+RewriteRule ^(.*)$ https://%0/$1 [R=307,L]
+
