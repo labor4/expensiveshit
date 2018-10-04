@@ -1,10 +1,12 @@
 # expensiveshit
-iOS (photo)? web uploader/homescreen app with Seafile handover
+Photo web uploader/iOS homescreen app with Seafile handover
+
+![Screenshot](/HOME/httpdocs/bilder/core/screen.png?raw=true "Screen")
 
 This thing is a small website that serves as a web-app in your iOS device.
 It will 
 - (pl)upload to server
-- hand it over to seafile
+- hand it over to seafile (http POST)
 - delete the upload
 
 Works for files as well.
