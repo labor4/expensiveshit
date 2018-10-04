@@ -1,5 +1,5 @@
 # expensiveshit
-iOS (photo)? web uploader/homescreen app with Seafile handover
+Photo web uploader/iOS homescreen app with Seafile handover
 
 This thing is a small website that serves as a web-app in your iOS device.
 It will 
